@@ -36,7 +36,7 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.21",
     "@fortawesome/free-solid-svg-icons": "^5.10.1",
     "@fortawesome/react-fontawesome": "^0.1.4",
-    "acorn": "^7.0.0",
+    "acorn": "^7.1.1",
     "acorn-dynamic-import": "^4.0.0",
     "ajv": "^5.5.2",
     "autoprefixer": "^9.1.0",
